@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_guide_back">BACK</string>
+    <string name="add_guide_submit">SUBMIT</string>
+    <string name="add_guide_reset">RESET</string>
+    <string name="admin_guide_list">GUIDE LIST</string>
+    <string name="admin_add_guide">ADD GUIDE</string>
+    <string name="admin_edit_details">EDIT DETAILS</string>
+    <string name="admin_delete_guide">DELETE GUIDE</string>
+    <string name="user_view_guide">VIEW GUIDE</string>
+    <string name="user_register">REGISTER YOURSELF</string>
+</resources>
