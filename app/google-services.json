@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7166795857",
+    "firebase_url": "https://funtonguide.firebaseio.com",
+    "project_id": "funtonguide",
+    "storage_bucket": "funtonguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7166795857:android:60148ad6314d4170091870",
+        "android_client_info": {
+          "package_name": "com.example.funtonguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7166795857-7k8qo0n1vb1nnrpt2olh1bgjgn42e484.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funtonguide",
+            "certificate_hash": "25881d44dc0a1ca3c7c1bc732e4077cf3cdba88f"
+          }
+        },
+        {
+          "client_id": "7166795857-liimp536qiio6up9k2dhqqptd944qnqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcyzfD01cVTSj-9_GExbT79g2-Xvbs7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7166795857-liimp536qiio6up9k2dhqqptd944qnqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

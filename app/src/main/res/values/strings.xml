@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">funtonGuide</string>
+
+    <string name="txtMainGuide">Admin Home</string>
+    <string name="btnGuideList">GUIDE LIST</string>
+    <string name="btnGuideAdd">ADD GUIDE</string>
+    <string name="btnGuideEdit">EDIT DETAILS</string>
+    <string name="btnGuideDelete">DELETE GUIDE</string>
+    <string name="txtAddGuide">ADD NEW GUIDE</string>
+    <string name="txtGuideName">Guide Name</string>
+    <string name="txtGuideTown">Town</string>
+    <string name="txtGuideContact">Contact Number</string>
+    <string name="txtGuideDescription">Description</string>
+    <string name="txtGuideLanguage">Language</string>
+    <string name="txtGuideGender">Gender</string>
+    <string name="txtGuidePhoto">Photo</string>
+    <string name="btnAddGuideBack">Back</string>
+    <string name="btnAddGuideSubmit">Submit</string>
+    <string name="btnAddGuideReset">Reset</string>
+    <string name="radioAddGuideMale">Male</string>
+    <string name="radioAddGuideFemale">Female</string>
+    <string name="btnGuideAddChoose">Choose File</string>
+    <string name="txtAddGuideLanguage">Write Language</string>
+    <string name="txtMainView">GUIDE DETAILS</string>
+    <string name="ViewName">Name</string>
+    <string name="ViewTown">Town</string>
+    <string name="ViewCon">Contact Number</string>
+    <string name="ViewDescription">Description</string>
+    <string name="ViewLanguage">Language</string>
+    <string name="VIewImage">Image</string>
+    <string name="viewGuideDelete">DELETE</string>
+    <string name="updateButton">Update</string>
+    <string name="name">Enter Your Name</string>
+    <string name="town">Enter Your Town</string>
+    <string name="contact">Enter Your  Contact Number</string>
+    <string name="description">Enter Your Description</string>
+    <string name="language">Enter Your Language</string>
+
+</resources>
