@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hotel</string>
+    <string name="View">Hotel List</string>
+    <string name="Add">Add Hotel</string>
+    <string name="Update">Update Hotel</string>
+    <string name="Delete">Delete Hotel</string>
+    <string name="add_hotel">Add Hotel</string>
+    <string name="hotel_name">Hotel Name :</string>
+    <string name="address">Address Line :</string>
+    <string name="city">City :</string>
+    <string name="district">District :</string>
+    <string name="province">Province :</string>
+    <string name="description">Description :</string>
+    <string name="contact_number">Contact Number :</string>
+    <string name="add">ADD</string>
+    <string name="DeleteH">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="hotel_id_01">Hotel ID :</string>
+    <string name="update_01">Update</string>
+    <string name="hotel_id_02">Hotel ID :</string>
+    <string name="description_01">Description :</string>
+    <string name="contact_number_02">Contact Number :</string>
+    <string name="update">UPDATE</string>
+    <string name="photo">Photo :</string>
+    <string name="view_hotel_list">View Hotel List</string>
+
+</resources>
+
