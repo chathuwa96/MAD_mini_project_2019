@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735789677665",
+    "firebase_url": "https://carrent-2afa3.firebaseio.com",
+    "project_id": "carrent-2afa3",
+    "storage_bucket": "carrent-2afa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735789677665:android:06b37a11c0790337a8be20",
+        "android_client_info": {
+          "package_name": "com.example.shreevaka.carrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735789677665-2nj711le3l0l2tqnathgbtcl59vnsllq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shreevaka.carrent",
+            "certificate_hash": "36ef6142862cd2c2bddc7f4058a768cdff08ad1c"
+          }
+        },
+        {
+          "client_id": "735789677665-6tcp39rl3a6j1nvuk2ooscksbnjeep87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-P60oiSEkNo2zCjshOLYF8rlmmid5kxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735789677665-6tcp39rl3a6j1nvuk2ooscksbnjeep87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
