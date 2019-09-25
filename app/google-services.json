@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739298937113",
+    "firebase_url": "https://tourism-2c59f.firebaseio.com",
+    "project_id": "tourism-2c59f",
+    "storage_bucket": "tourism-2c59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739298937113:android:a27ba442f3bc31421f1d88",
+        "android_client_info": {
+          "package_name": "com.example.shreevaka.tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739298937113-ctoi426ojmvkhfvvp5af4dv86cdtarjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shreevaka.tourism",
+            "certificate_hash": "36ef6142862cd2c2bddc7f4058a768cdff08ad1c"
+          }
+        },
+        {
+          "client_id": "739298937113-gut4v883jlg0vossvd79if94g0m4b0i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRbjIputblmDPAvyrHTXK8LDVR14EKH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739298937113-gut4v883jlg0vossvd79if94g0m4b0i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
